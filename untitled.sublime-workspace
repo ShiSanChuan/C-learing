@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"print",
+				"PrintMap\tvoid PrintMap()"
+			],
+			[
 				"lear",
 				"learning_offset\tparam"
 			],
@@ -510,10 +514,6 @@
 			[
 				"in_im",
 				"in_imp_b\tcv::Mat in_imp_b"
-			],
-			[
-				"in_",
-				"in_imp_b\tcv::Mat in_imp_b"
 			]
 		]
 	},
@@ -523,43 +523,42 @@
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 69,
+				"buffer_size": 96,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "GreedyAlgorithms/Activities Selection.cpp",
+			"file": "GreedyAlgorithms/Dijkstra.cpp",
 			"settings":
 			{
-				"buffer_size": 532,
+				"buffer_size": 1675,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "GreedyAlgorithms/mini Spanning Tree.cpp",
+			"file": "GreedyAlgorithms/test.cpp",
 			"settings":
 			{
-				"buffer_size": 3052,
+				"buffer_size": 1337,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "GreedyAlgorithms/Huffman Coding.cpp",
+			"file": "GreedyAlgorithms/test.txt",
 			"settings":
 			{
-				"buffer_size": 1513,
-				"encoding": "UTF-8",
+				"buffer_size": 5362879,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "GreedyAlgorithms/minmap distance.cpp",
+			"file": "/home/shisanchuan/.config/sublime-text-3/Packages/User/C++.sublime-build",
 			"settings":
 			{
-				"buffer_size": 1273,
+				"buffer_size": 1341,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -705,7 +704,7 @@
 			],
 			[
 				"Packages/User/C++.sublime-build",
-				"Run"
+				""
 			]
 		],
 		[
@@ -761,16 +760,16 @@
 		"selected_items":
 		[
 			[
-				"pus",
-				"Git: Push"
-			],
-			[
 				"com",
 				"Git: Commit"
 			],
 			[
 				"add",
 				"Git: Add All"
+			],
+			[
+				"pus",
+				"Git: Push"
 			],
 			[
 				"co",
@@ -907,10 +906,16 @@
 	[
 		"/home/shisanchuan/C++work/C-learing",
 		"/home/shisanchuan/C++work/C-learing/C++learing",
+		"/home/shisanchuan/C++work/C-learing/Dynamic Programming",
 		"/home/shisanchuan/C++work/C-learing/GreedyAlgorithms"
 	],
 	"file_history":
 	[
+		"/home/shisanchuan/C++work/C-learing/GreedyAlgorithms/Dijkstra.cpp",
+		"/home/shisanchuan/C++work/C-learing/GreedyAlgorithms/minmap distance.cpp",
+		"/home/shisanchuan/C++work/C-learing/GreedyAlgorithms/Huffman Coding.cpp",
+		"/home/shisanchuan/C++work/C-learing/GreedyAlgorithms/mini Spanning Tree.cpp",
+		"/home/shisanchuan/C++work/C-learing/GreedyAlgorithms/Activities Selection.cpp",
 		"/home/shisanchuan/C++work/C-learing/Activity Selection.cpp",
 		"/home/shisanchuan/C++work/C-learing/Search&Sort/Pigeonhole Sort.cpp",
 		"/home/shisanchuan/C++work/C-learing/Search&Sort/Comb Sort.cpp",
@@ -1033,16 +1038,11 @@
 		"/home/shisanchuan/文档/test.tex",
 		"/home/shisanchuan/C++work/RemortCamerConnect_ARM-PC/camer_pi_TCP.cpp",
 		"/home/shisanchuan/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
-		"/home/shisanchuan/C++work/RemortCamerConnect_ARM-PC/test.tex",
-		"/home/shisanchuan/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
-		"/home/shisanchuan/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
-		"/home/shisanchuan/.config/sublime-text-3/Packages/User/Git.sublime-settings",
-		"/home/shisanchuan/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
-		"/home/shisanchuan/C++work/RemortCamerConnect_ARM-PC/TCP/CMakeLists.txt"
+		"/home/shisanchuan/C++work/RemortCamerConnect_ARM-PC/test.tex"
 	],
 	"find":
 	{
-		"height": 28.7037037037
+		"height": 46.2962962963
 	},
 	"find_in_files":
 	{
@@ -1056,6 +1056,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"-lpthread",
+			"probability",
+			"YoloObjectDetector",
 			"swap",
 			"vector",
 			"RANGE",
@@ -1088,7 +1091,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -1097,15 +1100,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 69,
+						"buffer_size": 96,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								69,
-								69
+								58,
+								58
 							]
 						],
 						"settings":
@@ -1121,19 +1124,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "GreedyAlgorithms/Activities Selection.cpp",
+					"file": "GreedyAlgorithms/Dijkstra.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 532,
+						"buffer_size": 1675,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								36,
-								36
+								125,
+								125
 							]
 						],
 						"settings":
@@ -1151,47 +1154,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "GreedyAlgorithms/mini Spanning Tree.cpp",
+					"file": "GreedyAlgorithms/test.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3052,
+						"buffer_size": 1337,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								839,
-								839
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C++.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 399.074074074,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "GreedyAlgorithms/Huffman Coding.cpp",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1513,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								521,
-								521
+								94,
+								94
 							]
 						],
 						"settings":
@@ -1200,6 +1175,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "GreedyAlgorithms/test.txt",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5362879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								505,
+								505
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1207,24 +1210,24 @@
 				},
 				{
 					"buffer": 4,
-					"file": "GreedyAlgorithms/minmap distance.cpp",
+					"file": "/home/shisanchuan/.config/sublime-text-3/Packages/User/C++.sublime-build",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1273,
+						"buffer_size": 1341,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								305,
-								305
+								1203,
+								1203
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/C++/C++.sublime-syntax",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
@@ -1232,7 +1235,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
