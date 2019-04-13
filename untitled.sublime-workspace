@@ -538,10 +538,11 @@
 			}
 		},
 		{
-			"file": "GreedyAlgorithms/test.cpp",
+			"file": "Patten Searching/Rabin_karp Algorithm.cpp",
 			"settings":
 			{
-				"buffer_size": 2071,
+				"buffer_size": 1118,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -746,7 +747,7 @@
 				"Git: Push"
 			],
 			[
-				"com",
+				"comm",
 				"Git: Commit"
 			],
 			[
@@ -754,15 +755,15 @@
 				"Git: Add All"
 			],
 			[
+				"com",
+				"Git: Commit"
+			],
+			[
 				"pus",
 				"Git: Push"
 			],
 			[
 				"co",
-				"Git: Commit"
-			],
-			[
-				"comm",
 				"Git: Commit"
 			],
 			[
@@ -887,9 +888,7 @@
 	"expanded_folders":
 	[
 		"/home/shisanchuan/C++work/C-learing",
-		"/home/shisanchuan/C++work/C-learing/C++learing",
-		"/home/shisanchuan/C++work/C-learing/Dynamic Programming",
-		"/home/shisanchuan/C++work/C-learing/GreedyAlgorithms"
+		"/home/shisanchuan/C++work/C-learing/C++learing"
 	],
 	"file_history":
 	[
@@ -1122,8 +1121,8 @@
 						"selection":
 						[
 							[
-								353,
-								353
+								166,
+								166
 							]
 						],
 						"settings":
@@ -1139,27 +1138,29 @@
 				},
 				{
 					"buffer": 2,
-					"file": "GreedyAlgorithms/test.cpp",
-					"semi_transient": true,
+					"file": "Patten Searching/Rabin_karp Algorithm.cpp",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2071,
+						"buffer_size": 1118,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								391,
+								391
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/C++/C++.sublime-syntax"
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 455.555555556,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
