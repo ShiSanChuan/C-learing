@@ -6,7 +6,7 @@ space = [
     hp.quniform('batch_size', 15, 200, 1),
     hp.quniform('check_num', 150, 250, 1),
     hp.uniform('len_delta', 0.05, 100),
-    hp.quniform('priority_dead_line', 0, 300, 1),
+    hp.quniform('priority_dead_line', 0, 200, 1),
     hp.quniform('time_delta', 0, 200, 1)
 ]
 
@@ -16,7 +16,7 @@ num = 0
 def func(args):
     global num
     num += 1
-    cmd = './preCodeCraft-2019 ' + '2-map-training-1'
+    cmd = './newCodeCraft-2019 ' + '2-map-exam-2'
     idx = 0
     for val in args:
         cmd += ' '
